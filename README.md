@@ -6,11 +6,15 @@
 
 <div class="github-introduction">
 
-Im a **Web Developer** who loves to bring ideas to life in the browser. I grew up in the 90's early 2000's and fell in love with the internet. Therefore I am excited about designing and developing websites and web applications that are **fast**, **responsive**, and **accessible** to everyone. Also, I kind of want to bring back the 90's web design aesthetic. I think it was cool. 😎
+Youth Development Instructor @ XP Synergy | Mentoring, Communication, Problem Solving
+
+I am a Youth Development Instructor at XP Synergy Companies, where I have been teaching work-related skills and life skills to young adults for over a year. I have a background in intelligence analysis, transportation management, and hazardous materials handling, as well as multiple certifications, including Intelligence Fundamentals Certified Professional (IFPC) and Certified Associates in Project Management (CAPM).
+
+My mission is to use my strength-based and trauma-informed approaches to help participants explore their abilities and career options, prepare for employment, and achieve self-sufficiency. I work closely with an interdisciplinary team to deliver lessons from the Opportunity Now contextualized curriculum, which covers topics such as communication, problem solving, teamwork, and leadership. I also enjoy public speaking and sharing my leadership and training skills developed during my 20-year military career in the Air Force. 😎
 
 </div>
 
-- 💼 Got a freelance gig? Hit me up via <a href="mailto:code@aar.one">email.</a>
+- 💼 Got a freelance gig? Hit me up via <a href="mailto:kingcorcio@yahoo.com">email.</a>
 - 💬 Curious? Just ask!
 
 <div class="badges-intro">
@@ -32,8 +36,8 @@ Im a **Web Developer** who loves to bring ideas to life in the browser. I grew u
 
 <div class="badges-githubstats">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aaronedev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="aaronedev's Stats" height="165">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronedev&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=kingcorcio&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="kingcorcio's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingcorcio&theme=tokyonight&hide_border=true" alt="kingcorcio's Streak" height="165">
   </p>
 </div>
 
