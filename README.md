@@ -1,4 +1,4 @@
-[![header](./banner.png)](https://aar.one)
+[![header](./banner.png)](https://www.linkedin.com/in/corcio)
 
 # Oi, World! Im Terrence Corcio 🏴‍☠️
 
