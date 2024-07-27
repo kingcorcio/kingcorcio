@@ -1,6 +1,6 @@
 [![header](./banner.png)](https://www.linkedin.com/in/corcio)
 
-# Oi, World! Im Terrence Corcio 🏴‍☠️
+# Ahoy mateys!! Im Terrence Corcio (Pirate king) 🏴‍☠️
 
 ![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
 
