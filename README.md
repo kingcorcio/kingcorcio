@@ -2,7 +2,7 @@
 
 # Ahoy mateys!! I am Terrence Corcio (Pirate king) 🏴‍☠️
 
-![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=kingcorcio&label=Profile%20views&color=60598F&style=flat)
 
 <div class="github-introduction">
 
