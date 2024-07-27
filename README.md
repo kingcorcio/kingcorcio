@@ -1,6 +1,6 @@
 [![header](./banner.png)](https://www.linkedin.com/in/corcio)
 
-# Ahoy mateys!! Im Terrence Corcio (Pirate king) 🏴‍☠️
+# Ahoy mateys!! I am Terrence Corcio (Pirate king) 🏴‍☠️
 
 ![Profile views](https://komarev.com/ghpvc/?username=ahrwn&label=Profile%20views&color=60598F&style=flat)
 
@@ -41,18 +41,18 @@ My mission is to use my strength-based and trauma-informed approaches to help pa
   </p>
 </div>
 
-## 📃 I love documentation
+## 📃 I love Learning new things and i am a gamer at heart, i also 3d print
 
-Not many developers like to write documentation. I do though. I believe that a well-documented codebase is as important as the code itself. Its like a story telling what the code can do and how it does it. I always try to write clear, concise, and useful documentation. My go-to documentation tool is <a href="https://obsidian.md/" target="_blank">Obsidian.md</a>.
+I like 3d printing stuff add that link here is <a href="https://obsidian.md/" target="_blank">Obsidian.md</a>.
 
 Whenever I write documentation i try to follow keep in mind the following steps to make sure the reader gets the most out of it:
 
 ```markdown
-1. **What** is this documentation about?
-2. **Why** is this documentation important?
+1. **What** is this dpage about?
+2. **Why** is this page important?
 3. **How** can the reader use this documentation?
-4. **When** should the reader use this documentation?
-5. **Who** is this documentation for?
+4. **When** should they buy my book?
+5. **Who** is this it for?
 ```
 
 ![Obsidian](https://img.shields.io/badge/-Obsidian-503D4D?style=flat&logo=obsidian&logoColor=#0078D6)
@@ -60,26 +60,26 @@ Whenever I write documentation i try to follow keep in mind the following steps 
 
 ### <p align="center">⚙️ My development environment </p>
 
-> I grew up with Windows and have a special place in my heart for it. Its my go-to operating system for development. I enjoy using the Windows Subsystem for Linux (WSL) and the Windows Terminal. I also use <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank">PowerShell</a> configured with <a href="https://ohmyposh.dev/" target="_blank">Oh-My-Posh</a> for my terminal.
+> I grew up in Germany  add some links here
 
 <div class="table-devenvironment">
   <table style="font-size: 11px">
   <tr>
   <td valign="top" width="50%">
   
-  #### 🖥️ Windows Power User
+  #### 🖥️ Critical Thinker 9im still adding some content here
   
   ![Windows](https://img.shields.io/badge/-Windows-503D4D?style=flat&logo=windows&logoColor=#0078D6)
-  ![PowerShell](https://img.shields.io/badge/-PowerShell-000000?style=flat&logo=powershell&logoColor=#5391FE)
-  ![Azure](https://img.shields.io/badge/-Azure-000000?style=flat&logo=microsoft-azure&logoColor=#0078D4)
-  ![WSL](https://img.shields.io/badge/-WSL-000000?style=flat&logo=windows-subsystem-for-linux&logoColor=#FCC624)
+CAPM
+ 
+ 
   
   </td>
   <td valign="top" width="50%">
   
-  #### 🐧 Linux Enthusiast
+  #### 🐧 nerd Enthusiast
   
-  I love working with Linux and Im always exploring new things in the vast open-source world.
+  I love learning and I am always exploring new things in the vast open world.
   
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=#FCC624)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
