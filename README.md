@@ -69,7 +69,8 @@ Whenever I write documentation i try to follow keep in mind the following steps 
   ![Windows](https://img.shields.io/badge/-Windows-503D4D?style=flat&logo=windows&logoColor=#0078D6)
 CAPM
  
- 
+ ![123](https://github.com/user-attachments/assets/8432595f-cf2c-4682-8eb2-aff88d2a1745)
+
   
   </td>
   <td valign="top" width="50%">
