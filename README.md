@@ -1,9 +1,6 @@
 [![header](./banner.png)](https://www.linkedin.com/in/corcio)
+[![header](./ban.jpg)](https://www.linkedin.com/in/corcio)
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/corcio"
 
 # Ahoy mateys!! I am Terrence Corcio (Pirate king) 🏴‍☠️
 
