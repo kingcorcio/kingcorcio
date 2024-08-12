@@ -1,5 +1,4 @@
-[![header](./banner.png)](https://www.linkedin.com/in/corcio)
-[![header](./ban.jpg)](https://www.linkedin.com/in/corcio)
+[![linkedin](https://www.linkedin.com/in/corcio)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="100" height="100">
 
