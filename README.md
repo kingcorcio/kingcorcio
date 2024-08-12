@@ -102,7 +102,12 @@ CAPM
   	https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white
   	https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
 
-
+  ![X (formerly Twitter) URL]([https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+    ![X (formerly Twitter) URL]([https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FTerrenceCorcio](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit))
+      ![X (formerly Twitter) URL](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
+        ![X (formerly Twitter) URL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit)
+	  ![X (formerly Twitter) URL](  )
+     ![X (formerly Twitter) URL](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
    
   </td>
   </tr>
