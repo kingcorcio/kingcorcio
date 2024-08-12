@@ -89,6 +89,8 @@ CAPM
 
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat&logo=arch-linux&logoColor=#1793D1)
   ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kali-linux&logoColor=#557C94)
+
+  	https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
   
   </td>
   </tr>
