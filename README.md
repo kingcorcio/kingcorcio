@@ -64,7 +64,7 @@ Whenever I write documentation i try to follow keep in mind the following steps 
   <tr>
   <td valign="top" width="50%">
   
-  #### 🖥️ Critical Thinker 9im still adding some content here
+  #### 🖥️ Critical Thinker im still adding some content here
   
   ![Windows](https://img.shields.io/badge/-Windows-503D4D?style=flat&logo=windows&logoColor=#0078D6)
 CAPM
@@ -75,11 +75,14 @@ CAPM
   </td>
   <td valign="top" width="50%">
   
-  #### 🐧 nerd Enthusiast
+  #### 🏴‍☠️ nerd Enthusiast
   
   I love learning and I am always exploring new things in the vast open world.
-  
+
+  https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FTerrenceCorcio
+
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=#FCC624)
+  https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FTerrenceCorcio
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
   ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=#A81D33)
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat&logo=arch-linux&logoColor=#1793D1)
