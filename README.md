@@ -85,6 +85,8 @@ CAPM
   https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FTerrenceCorcio
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=#E95420)
   ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=#A81D33)
+  ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FTerrenceCorcio)
+
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat&logo=arch-linux&logoColor=#1793D1)
   ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-000000?style=flat&logo=kali-linux&logoColor=#557C94)
   
