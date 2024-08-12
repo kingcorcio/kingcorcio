@@ -1,6 +1,6 @@
-[![linkedin](https://www.linkedin.com/in/corcio)
+[linkedin - Terrence Corcio](https://www.linkedin.com/in/corcio)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="50" height="50">
 
 
 # Ahoy mateys!! I am Terrence Corcio (Pirate king) 🏴‍☠️
