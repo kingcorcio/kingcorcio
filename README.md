@@ -17,7 +17,9 @@ My mission is to use my strength-based and trauma-informed approaches to help pa
 - 💼 Got a freelance gig? Hit me up via <a href="mailto:kingcorcio@yahoo.com">email.</a>
 - 💬 Curious? Just ask!
 
-- NONE OF THE FOLLOWING BADGES APPLY TO ME I NEED TO UPDATE THEM
+- hey look here..woooo distraction
+- 
+![datagoingcrazy-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d610b729-1e52-451f-97a1-31c1fff66246)
 
 <div class="badges-intro">
 
