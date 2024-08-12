@@ -90,8 +90,20 @@ CAPM
   ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat&logo=arch-linux&logoColor=#1793D1)
   ![disco](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-  	https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white
-  
+  ![disco](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+  ![facebook]([https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+    ![disco](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+    
+  https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit
+ 	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+  https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+ 	https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white
+  	https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white
+  	https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
+
+
+   
   </td>
   </tr>
   </table>
