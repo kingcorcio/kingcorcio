@@ -99,6 +99,9 @@ CAPM
         ![X (formerly Twitter) URL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit)
 	  ![X (formerly Twitter) URL](  )
      ![X (formerly Twitter) URL](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+![connections map](https://github.com/user-attachments/assets/70c8e5b8-ad3b-47de-b3a3-d42f1ce777ce)
+
    
   </td>
   </tr>
